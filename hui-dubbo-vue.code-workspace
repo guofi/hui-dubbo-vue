@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"cSpell.words": [
+			"chromedriver",
+			"nightwatch",
+			"portfinder",
+			"splitpane",
+			"uglifyjs",
+			"vuedraggable",
+			"vuex"
+		]
+	}
+}
