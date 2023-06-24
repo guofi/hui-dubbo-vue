@@ -6,13 +6,24 @@
 	],
 	"settings": {
 		"cSpell.words": [
+			"Avenir",
 			"chromedriver",
+			"cmock",
+			"codemirror",
+			"echarts",
+			"eventsource",
+			"iconfont",
+			"mockjs",
 			"nightwatch",
 			"portfinder",
+			"riophae",
+			"signsrc",
 			"splitpane",
+			"treeselect",
 			"uglifyjs",
 			"vuedraggable",
-			"vuex"
+			"vuex",
+			"yxxx"
 		]
 	}
 }
